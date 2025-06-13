@@ -13,13 +13,13 @@ Este é um painel de controle desenvolvido para a gestão financeira e de projet
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd arquitetura-foresti
+    git clone https://github.com/EduardoFelichak/foresti.git
+    cd foresti
     ```
 
 2.  **Instale as dependências:**
     ```bash
-    pnpm install
+    npm install
     ```
 
 3.  **Configure as variáveis de ambiente:**
@@ -28,7 +28,7 @@ Este é um painel de controle desenvolvido para a gestão financeira e de projet
 
 4.  **Execute o servidor de desenvolvimento:**
     ```bash
-    pnpm dev
+    npm run dev
     ```
 
 O projeto estará disponível em `http://localhost:5173`.
